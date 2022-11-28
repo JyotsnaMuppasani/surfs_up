@@ -18,7 +18,7 @@ With the intention to start Surf and Shake shop we are using the SQLite and SQL 
 Temperatures in June are warmer compared to December, though not a very significant difference is seen in temperatures. Precipitation for the months of June and December can also be seen for better analysis of weather. Precipitation in June has min of 0.0 and max of 4.4 whereas in December it is min of 0.2 and max of 6.4 suggesting more chances of rain in december. We can conclude through this analysis that we can expect more tourists in June than December due to the weather conditions.
 
  ![june](Images/june.png)
-![dec](Images/dec.png)
+![Dec](Images/Dec.png)
 
 
 
